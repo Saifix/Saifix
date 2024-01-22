@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saif</h1>
 <h3 align="center">A passionate Python developer specialising in AI</h3>
 
+<br>
+<img align="right" alt="Coding" width="300" src="https://cdn.https://dribbble.com/shots/23463698-Isometric-city-vector-illustration?showSimilarShots=true&_=1705920838460">
+
 - 🔭 I’m currently working on **Telehealth**
 
 - 🌱 I’m currently learning **Generative AI**
