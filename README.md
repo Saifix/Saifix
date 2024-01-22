@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python developer specialising in AI</h3>
 
 <br>
-<img align="right" alt="Coding" width="300" src="https://cdn.https://dribbble.com/shots/23463698-Isometric-city-vector-illustration?showSimilarShots=true&_=1705920838460">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - 🔭 I’m currently working on **Telehealth**
 
