@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **saif@saifix.com**
 
-- 📄 Know about my experiences [www.saifix.com](www.saifix.com)
+- <a href="http://www.saifix.com">📄 Know about my experiences</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
