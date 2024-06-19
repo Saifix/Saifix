@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python and AI**
 
-- 📫 How to reach me **saif@saifix.com**
+- 📫 How to reach me **saif_rehman08@yahoo.com**
 
 - <a href="http://www.saifix.com">📄 Know about my experiences at www.saifix.com</a>
 
